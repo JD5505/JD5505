@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**JD5505/JD5505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm JD 👋
 
-Here are some ideas to get you started:
+### Aspiring Machine Learning Engineer | Python Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineering student interested in Machine Learning,
+Data Science, and Generative AI.
+
+I enjoy building practical applications that combine machine
+learning models with backend systems and real-world data.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, SQL, C++
+- **Machine Learning:** Scikit-learn, TensorFlow, Pandas, NumPy
+- **Generative AI:** LangChain, RAG, LLMs
+- **Backend:** FastAPI, Streamlit
+- **Databases:** PostgreSQL, ChromaDB
+- **Tools:** Git, GitHub, Docker, AWS
+
+### 🚀 Featured Projects
+
+- **Recidivism Risk Predictor**
+  - ML-based risk prediction with fairness evaluation.
+  - FastAPI, Streamlit, Scikit-learn, Docker.
+
+- **ClauseGuard**
+  - Legal PDF auditing using RAG and LLMs.
+  - FastAPI, ChromaDB, Groq.
+
+- **STSMIRS**
+  - Smart Tourist Safety Monitoring and Incident Response.
+  - AI, geofencing, GPS and blockchain integration.
+
+### 📚 Currently Learning
+
+- Data Structures and Algorithms
+- Machine Learning fundamentals
+- Generative AI and LLM applications
+
+### 📫 Connect With Me
+
+- LinkedIn: [Your LinkedIn URL](https://linkedin.com/)
+- Email: [Your Email](mailto:your-email@example.com)
+- Portfolio: [Your Portfolio URL](https://example.com)
