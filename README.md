@@ -40,6 +40,5 @@ learning models with backend systems and real-world data.
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL](https://linkedin.com/)
-- Email: [Your Email](mailto:your-email@example.com)
-- Portfolio: [Your Portfolio URL](https://example.com)
+- LinkedIn: [https://www.linkedin.com/in/jivan-divate](https://www.linkedin.com/in/jivan-divate)
+- Email: [divatejivan2005@gmail.com](mailto:divatejivan2005@gmail.com)
